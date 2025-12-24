@@ -26,8 +26,8 @@
 #   chmod +x install_comfyui_rx9070xt.sh
 #   ./install_comfyui_rx9070xt.sh
 #
-# Author: Antigravity AI Assistant
-# Date: December 2024
+# Author: Jorge B
+# Date: December 2025
 #===============================================================================
 
 set -e  # Exit on error
