@@ -62,7 +62,7 @@
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/comfyui-rx9070xt-install.git
+git clone https://github.com/Jobar86/comfyui-with-9070xt.git
 cd comfyui-rx9070xt-install
 ```
 
